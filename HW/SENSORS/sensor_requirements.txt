@@ -62,7 +62,7 @@ pianohat==0.1.0
 picamera==1.13
 piglow==1.2.5
 pigpio==1.78
-Pillow==5.4.1
+Pillow==12.1.1
 protobuf==3.20.1
 psutil==5.5.1
 pycairo==1.16.2
